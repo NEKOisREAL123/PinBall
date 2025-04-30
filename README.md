@@ -1,2 +1,2 @@
 # PinBall
-Unity Assets store - Pinball + MongDB
+Unity Assets store - Pinball 2D + MongDB
